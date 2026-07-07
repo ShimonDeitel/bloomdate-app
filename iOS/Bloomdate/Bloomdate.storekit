@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Multi-year bloom comparison charts and photo timeline",
+          "displayName": "Bloomdate Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "bloomdate.pro",
+      "referenceName": "Bloomdate Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
