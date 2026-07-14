@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BloomdateTests
-      - path: Bloomdate.storekit
     dependencies:
       - target: Bloomdate
     settings:
